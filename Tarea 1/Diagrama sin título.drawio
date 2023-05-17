@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-17T16:26:25.781Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0" etag="rYWMcfwJ-TcidYPNSVhy" version="21.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-17T16:27:59.996Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0" etag="D1MtXZ_xt01uyxSjhN4e" version="21.3.2" type="github">
   <diagram name="Page-1" id="80d4a630-b321-0f5e-ff81-c5a36ef4752d">
     <mxGraphModel dx="1053" dy="568" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -15,9 +15,6 @@
         </mxCell>
         <mxCell id="v8N_cCO75sESYDzRJO4r-9" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#7EA6E0;fontStyle=1;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="60" y="171" width="370" height="274" as="geometry" />
-        </mxCell>
-        <mxCell id="5c82df7aa0dc6260-3" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;fillColor=#FFFFFF;strokeColor=#000000;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.radio_tower;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="326" y="582" width="55" height="100" as="geometry" />
         </mxCell>
         <mxCell id="5c82df7aa0dc6260-74" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/fatcow/32x32/tree.png;rounded=1;shadow=0;comic=0;strokeColor=#6881B3;strokeWidth=2;fillColor=#CCFFCC;fontColor=#0066CC;" parent="1" vertex="1">
           <mxGeometry x="811.58" y="295" width="32" height="32" as="geometry" />
